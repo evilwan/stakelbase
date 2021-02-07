@@ -12,6 +12,10 @@ are shown.
 The list of variations is sorted in descending order of the weights in the opening book, so the
 move with the highest score is shown first.
 
+## Usage
+
+Download all the files in this repository in the same local directory. Next open testsb.html in a web browser (with Javascript enabled) That's it.
+
 ## Quick introduction of the tool
 
 After loading the interface, the first thing to do is to load a binary opening book from file (usually with extension .bin)
