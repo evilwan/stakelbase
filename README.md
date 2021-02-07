@@ -32,6 +32,15 @@ more than one continuation.
 
 The rotate board button does exactly that: flip the board.
 
+## Why HTML and Javascript?
+
+This tool is intended to be used on as many platforms as possible, preferably requiring only a web browser (think Android devices and chromebooks)
+
+As such, one of the design goals was to keep it simple and self-contained, so no external dependencies (no jquery, no node.js ...)
+
+In the end, it is perfectly possible to merge all Javascript code in one big file, or maybe even include it as inline Javascript code
+in the HTML page.
+
 ## Why this name?
 
 The name is derived from the Dutch word "stekelbees", which translates to English as "gooseberry".
