@@ -2,6 +2,12 @@
 
 Stakelbase is a viewer for Polyglot binary chess opening books.
 
+
+## Notice
+
+Moved to [Codeberg](https://codeberg.org/evilwan/stakelbase) because of policy changes at Github (see
+[Github notice](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13) )
+
 ## What does it do for me?
 
 The tool lets you select any binary Polyglot chess opening book and then allows to browse
